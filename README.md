@@ -68,3 +68,10 @@ A lightweight, mobile-responsive Tic-Tac-Toe game built using HTML, CSS, and Jav
 - ├── index.html
 - ├── style.css
 - ├── script.js
+- 
+---
+
+## 📩 Contact
+
+For any suggestions or issues, feel free to reach out via [LinkedIn](https://www.linkedin.com/in/subhrajit-swain).
+

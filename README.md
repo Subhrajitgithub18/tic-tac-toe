@@ -57,10 +57,10 @@ A lightweight, mobile-responsive Tic-Tac-Toe game built using HTML, CSS, and Jav
 ## 📸 Screenshots
 
 <img src="./tic-tac-toe.png" alt="Tic Tac Toe Screenshot" width="300">
-<img src="./WhatsApp Image 2025-07-20 at 11.30.54 PM.jpeg" width="300">
-<img src="./WhatsApp Image 2025-07-20 at 11.30.55 PM (1).jpeg" width="300">
-<img src="./WhatsApp Image 2025-07-20 at 11.30.55 PM.jpeg" width="300">
-<img src="./WhatsApp Image 2025-07-20 at 11.30.56 PM.jpeg" width="300">
+<img src="./WhatsApp Image 2025-07-20 at 11.30.54 PM.jpeg" width="100">
+<img src="./WhatsApp Image 2025-07-20 at 11.30.55 PM (1).jpeg" width="100">
+<img src="./WhatsApp Image 2025-07-20 at 11.30.55 PM.jpeg" width="100">
+<img src="./WhatsApp Image 2025-07-20 at 11.30.56 PM.jpeg" width="100">
 
 ---
 

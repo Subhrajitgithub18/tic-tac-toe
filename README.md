@@ -54,6 +54,12 @@ A lightweight, mobile-responsive Tic-Tac-Toe game built using HTML, CSS, and Jav
 
 ---
 
+## 🖼️ Game Screenshots
+
+![Tic-Tac-Toe UI](your-screenshot-url.png)
+
+---
+
 ## ⭐ Highlights
 
 - Fully responsive design – plays well on both desktop and mobile

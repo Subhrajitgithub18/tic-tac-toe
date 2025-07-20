@@ -64,7 +64,7 @@ A lightweight, mobile-responsive Tic-Tac-Toe game built using HTML, CSS, and Jav
 
 ## 📂 Folder Structure
 
-tic-tac-toe/
+- tic-tac-toe/
 - ├── index.html
 - ├── style.css
 - ├── script.js

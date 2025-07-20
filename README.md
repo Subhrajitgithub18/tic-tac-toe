@@ -56,11 +56,11 @@ A lightweight, mobile-responsive Tic-Tac-Toe game built using HTML, CSS, and Jav
 
 ## 📸 Screenshots
 
-<img src="./tic-tac-toe.png" alt="Tic Tac Toe Screenshot" width="300">
-<img src="./WhatsApp Image 2025-07-20 at 11.30.54 PM.jpeg" width="100">
-<img src="./WhatsApp Image 2025-07-20 at 11.30.55 PM (1).jpeg" width="100">
-<img src="./WhatsApp Image 2025-07-20 at 11.30.55 PM.jpeg" width="100">
-<img src="./WhatsApp Image 2025-07-20 at 11.30.56 PM.jpeg" width="100">
+- <a href = "https://github.com/Subhrajitgithub18/tic-tac-toe/blob/main/tic-tac-toe.png">App icon</a>
+- <a href = "https://github.com/Subhrajitgithub18/tic-tac-toe/blob/main/WhatsApp%20Image%202025-07-20%20at%2011.30.54%20PM.jpeg">App icon over all apps</a>
+- <a href = "https://github.com/Subhrajitgithub18/tic-tac-toe/blob/main/WhatsApp%20Image%202025-07-20%20at%2011.30.55%20PM.jpeg">Tic-tac-toe-interface</a>
+- <a href = "https://github.com/Subhrajitgithub18/tic-tac-toe/blob/main/WhatsApp%20Image%202025-07-20%20at%2011.30.55%20PM%20(1).jpeg">Tic-tac-toe-input</a>
+- <a href = "https://github.com/Subhrajitgithub18/tic-tac-toe/blob/main/WhatsApp%20Image%202025-07-20%20at%2011.30.56%20PM.jpeg">Tic-tac-toe-Results</a>
 
 ---
 
